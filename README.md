@@ -1,5 +1,8 @@
 # 딥러닝을 이용한 실시간 특정 객체 모자이크 처리 
 
+## 0. opencv_camera  
+OpenCV를 이용해 셀카 찍기:  
+
 ## 1. Face_detection  
 OpenCV를 이용한 얼굴 인식: https://jinho-study.tistory.com/229  
 
