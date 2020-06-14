@@ -18,11 +18,7 @@ OpenCV를 이용한 실시간 얼굴 모자이크 처리 feat by 럭키짱의 �
 ## 4.1 web_crawling_and_make_dataset_using_selenium 
 4.1 Selenium으로 웹 크롤링하고 데이터셋 만들기: https://jinho-study.tistory.com/233  
 
-## 4.2 make_face_dataset_using_crawled_data  
-4.2 크롤링한 데이터로 얼굴 데이터셋 만들기: 
+...  
 
-## 5.1 make_user's_image_dataset  
-5.1 OpenCV를 이용해 내 이미지 데이터셋 만들기:
-
-## 5.2 make_user's_face_dataset  
-5.2 OpenCV를 이용해 내 얼굴 데이터셋 만들기: 
+## final version) Real time face recognition and mosaic
+final: 실시간 얼굴인식과 모자이크 처리: 
