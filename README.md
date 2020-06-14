@@ -1,4 +1,4 @@
-# 딥 러닝을 활용한 실시간 얼굴 인식과 모자이크 처리  
+# 딥러닝을 활용한 실시간 얼굴 인식과 모자이크 처리  
 
 ## 0. opencv_camera  
 OpenCV를 이용해 셀카 찍기: https://jinho-study.tistory.com/234  
