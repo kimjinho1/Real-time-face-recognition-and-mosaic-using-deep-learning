@@ -26,4 +26,6 @@ OpenCV를 이용한 실시간 얼굴 모자이크 처리 feat by 럭키짱의 �
 
 
 ## final version) Real time face recognition and mosaic  
-실시간 얼굴인식과 모자이크 처리: 
+실시간 얼굴인식과 모자이크 처리: https://jinho-study.tistory.com/249?category=926937  
+
+## 
