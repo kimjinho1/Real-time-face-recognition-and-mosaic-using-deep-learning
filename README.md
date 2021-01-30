@@ -18,7 +18,6 @@ OpenCV를 이용한 실시간 얼굴 모자이크 처리 feat by 럭키짱의 �
 ## 4.1 web_crawling_and_make_dataset_using_selenium 
 4.1 Selenium으로 웹 크롤링하고 데이터셋 만들기: https://jinho-study.tistory.com/233  
 
-...  
 
 ## Download Models
 - [shape_predictor_68_face_landmarks.dat.bz2](https://github.com/davisking/dlib-models/raw/master/shape_predictor_68_face_landmarks.dat.bz2)
